@@ -1,1 +1,1 @@
-hi new file
+hi from feature hi new file
